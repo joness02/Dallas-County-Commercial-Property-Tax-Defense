@@ -87,6 +87,23 @@ agent_gui.py
 
 ---
 
+### Power BI Dashboard
+
+An interactive Power BI dashboard was developed to provide a visual overview of commercial property valuation trends, model outputs, and protest decision insights.
+
+The dashboard helps stakeholders quickly analyze:
+
+- predicted defensible settlement floors
+- lawyer offer comparisons
+- accept vs reject decision patterns
+- high-value property distribution
+- key valuation drivers and trends
+- neighborhood and ZIP-based property insights
+
+This makes the project more practical for operational use by allowing appraisers and decision-makers to monitor patterns at scale rather than reviewing properties one by one.
+
+---
+
 ### Conversational AI Agent
 
 A Groq-powered legal defense chatbot that allows users to ask:
@@ -140,7 +157,8 @@ agent_chat.py
 ├── Final.ipynb    
 ├── agent_chat.py  
 ├── agent_gui.py  
-├── README.md  
+├── README.md
+├── Dashboard.pbix
 
 ---
 
