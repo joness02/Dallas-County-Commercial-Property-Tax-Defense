@@ -130,19 +130,17 @@ agent_chat.py
 
 ## Project Structure
 
-├── model/
-│   ├── cat_impute_values.pkl
-│   ├── categorical_features.pkl
-│   ├── feature_cols.pkl
-│   ├── final_model.pkl
-│   ├── hv_model.pkl
-│   ├── impute_values.pkl
-│
-├── Final.ipynb
-├── Final_code.pdf
-├── agent_chat.py
-├── agent_gui.py
-├── README.md
+├── model/  
+│   ├── cat_impute_values.pkl  
+│   ├── categorical_features.pkl  
+│   ├── feature_cols.pkl  
+│   ├── final_model.pkl  
+│   ├── hv_model.pkl  
+│   ├── impute_values.pkl  
+├── Final.ipynb    
+├── agent_chat.py  
+├── agent_gui.py  
+├── README.md  
 
 ---
 
@@ -223,8 +221,8 @@ Because the offer falls below the defensible settlement floor.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dallas-tax-defence-agent.git
-cd dallas-tax-defence-agent
+git clone https://github.com/joness02/Dallas-County-Commercial-Property-Tax-Defense.git
+cd Dallas-County-Commercial-Property-Tax-Defense
 ```
 
 ---
@@ -285,14 +283,6 @@ GROQ_API_KEY = "your_api_key_here"
 Never commit personal API keys to GitHub.
 
 ---
-
-## Academic Context
-
-This project was developed as the final project for:
-
-```text
-ASDS 6302 — Machine Learning / Applied Data Science
-```
 
 ## Future Improvements
 
